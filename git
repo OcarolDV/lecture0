@@ -1,0 +1,36 @@
+[33mcommit 6f54982866a625184c3092006fcb1ad6a3ff2790[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: e1437e7 1e2bce9
+Author: Dar Ocarol <ocaroldar@gmail.com>
+Date:   Tue Jun 2 11:37:00 2020 -0700
+
+    for conflict
+
+[33mcommit e1437e74cb6b529154717326bc84fae4ef6488e9[m
+Author: Dar Ocarol <ocaroldar@gmail.com>
+Date:   Tue Jun 2 11:34:42 2020 -0700
+
+    Added for conflict
+
+[33mcommit 1e2bce948eda79e71f187b3a4448bfba9491a12e[m
+Author: Dar Vince Ocarol <55413710+OcarolDV@users.noreply.github.com>
+Date:   Tue Jun 2 11:32:45 2020 -0700
+
+    Update hello.html
+
+[33mcommit d285cbb6a37b5b1a45c7df927f0717c70a0e1248[m
+Author: Dar Vince Ocarol <55413710+OcarolDV@users.noreply.github.com>
+Date:   Tue Jun 2 11:31:23 2020 -0700
+
+    Update hello.html
+
+[33mcommit 74e539fbe44e25504e3f78cd25077cea402a52b1[m
+Author: Dar Vince Ocarol <55413710+OcarolDV@users.noreply.github.com>
+Date:   Mon Jun 1 14:02:18 2020 -0700
+
+    Update hello.html
+
+[33mcommit 0094938ec2ac4cae796e7e0464ecfc015eab9158[m
+Author: Dar Ocarol <ocaroldar@gmail.com>
+Date:   Mon Jun 1 11:02:14 2020 -0700
+
+    created hello.html
